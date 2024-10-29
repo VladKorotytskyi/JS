@@ -64,8 +64,8 @@
 // const name = 'Vladyslav';
 // console.log('Username is ', name) //Username is Vladyslav
 
-// // const username = 'Hello, Vladyslav';
-// // alert(username);
+// const username = 'Hello, Vladyslav';
+// alert(username);
 
 // // const isComing =confirm('Please confirm hotel reservation');
 // // console.log(isComing);
