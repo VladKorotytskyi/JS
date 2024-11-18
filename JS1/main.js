@@ -67,8 +67,8 @@
 // const username = 'Hello, Vladyslav';
 // alert(username);
 
-// // const isComing =confirm('Please confirm hotel reservation');
-// // console.log(isComing);
+// const isComing =confirm('Please confirm hotel reservation');
+// console.log(isComing);
 
 // const username = prompt('Введіть своє імя');
 // console.log(username);
